@@ -2,8 +2,7 @@
 layout: page
 title: Jiayang Wang
 description: Materials Science and Engineering
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/profile.jpg
 category: postdocs
 related_publications: true
 ---

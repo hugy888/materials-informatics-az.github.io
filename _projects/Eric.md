@@ -2,7 +2,6 @@
 layout: page
 title: Eric Chirtel
 description: Applied Mathematics
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/profile.jpg
 category: graduate researchers
 ---

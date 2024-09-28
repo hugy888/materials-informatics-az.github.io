@@ -2,7 +2,6 @@
 layout: page
 title: Skyler DeVaughn
 description: Software Engineering
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/profile.jpg
 category: undergraduate researchers
 ---

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Sheila E. Whitman
+title: Sheila Whitman
 description: Applied Mathematics
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/profile.jpg
 category: graduate researchers
 giscus_comments: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nimet Beyza Bozdag
-description: Current UIUC
-importance: 2
+description: Now at UIUC
+img: assets/img/profile.jpg
 category: alumni
 ---
