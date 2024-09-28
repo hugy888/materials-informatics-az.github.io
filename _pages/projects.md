@@ -2,9 +2,9 @@
 layout: page
 title: people
 permalink: /people/
-description: Our team
+description: our team
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [postdocs, graduate researchers, undergraduate researchers, alumni]
 horizontal: false
 ---
