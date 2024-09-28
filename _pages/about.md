@@ -19,4 +19,10 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <!-- ## Welcome to Materials Informatics Lab !  -->
-Welcome to the Materials Informatics Lab at the University of Arizona! We are a group of interdisciplinary researchers working on _Structural_ Materials Infomatics for accelerating the design and development of sustainable structural alloys. 
+Welcome to the Materials Informatics Lab at the University of Arizona! We are an interdisciplinary group advancing the field of _structural_ materials infomatics for accelerated design and development of sustainable structural alloys. 
+
+#### Our expertise and capabilities
+
+- Metallurgy and mechanics of structural alloys
+- Machine learning: deep learning, Bayesian inference, language models
+- High-performance computing: algorithms, numerical methods, cloud computing
