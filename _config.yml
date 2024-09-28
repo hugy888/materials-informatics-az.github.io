@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Materials
-middle_name: Informatics
+first_name: Materials Informatics
+middle_name: 
 last_name: Lab
 email: latmarat@arizona.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Get in touch! 
+  get in touch! 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -203,7 +203,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
