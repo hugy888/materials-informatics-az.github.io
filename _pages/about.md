@@ -18,7 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!-- ## Welcome to Materials Informatics Lab !  -->
+#### Welcome!
+
 Welcome to the Materials Informatics Lab at the University of Arizona! We are an interdisciplinary group advancing the field of _structural_ materials infomatics for accelerated design and development of sustainable structural alloys. 
 
 #### Our expertise and capabilities
