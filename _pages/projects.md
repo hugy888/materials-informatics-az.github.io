@@ -5,7 +5,7 @@ permalink: /people/
 description: our team
 nav: true
 nav_order: 2
-display_categories: [postdocs, graduate researchers, undergraduate researchers, alumni]
+display_categories: [principal investigator, postdocs, graduate researchers, undergraduate researchers, alumni]
 horizontal: false
 ---
 
