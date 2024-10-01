@@ -9,6 +9,11 @@ display_categories: [principal investigator, postdocs, graduate researchers, und
 horizontal: false
 ---
 
+<!-- group photo(s) with a slider -->
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/group_spr-2024.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
