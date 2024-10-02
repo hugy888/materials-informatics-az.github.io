@@ -26,7 +26,7 @@ Sheila Whitman is a fourth year PhD student in the Applied Mathematics Program. 
             <td align ="right">Tucson, AZ</td>
         </tr>
         <tr>
-            <th scope="row">{{2011}}</th>
+            <th scope="row">{{2020}}</th>
             <td>B.A. in Mathematics </td>
             <td>Lycoming College</td>
             <td align ="right">Williamsport, PA</td>
