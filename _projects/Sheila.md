@@ -2,13 +2,12 @@
 layout: page
 title: Sheila Whitman
 description: Applied Mathematics
-img: assets/img/profile.jpg
+img: assets/img/whitman.jpg
 category: graduate researchers
 giscus_comments: false
 ---
 
-
-Sheila Whitman is a fourth year PhD student in the Applied Mathematics Program at the University of Arizona. Sheila's research is at the intersection of applied mathematics and materals science with a goal of advancing sustainable materials for a cleaner, greener future.
+Sheila Whitman is a fourth year PhD student in the Applied Mathematics Program. Sheila's research is at the intersection of applied mathematics and materals science with a goal of advancing sustainable materials for a cleaner, greener future.
 
 ### Education
 

@@ -2,10 +2,12 @@
 layout: page
 title: Saege Hagerty
 description: Materials Science and Engineering
-img: assets/img/profile.jpg
+img: assets/img/saege.jpg
 category: graduate researchers
 giscus_comments: false
 ---
+
+Saege Hagerty is an MS student in the Department of Materials Science & Engineering. Saege works on sustainable aluminum alloys with high scrap content.
 
 ### Education
 
