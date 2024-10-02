@@ -2,7 +2,7 @@
 layout: page
 title: Sheila Whitman
 description: Applied Mathematics
-img: assets/img/whitman.jpg
+img: assets/img/sheila.jpg
 category: graduate researchers
 giscus_comments: false
 ---
