@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New students: Eric, Hao, Saleh, Saege, and I-Tzu join the group. Welcome! 
+New students: Eric, Hao, Saege, I-Tzu, and Aditya join the group. Welcome! 
