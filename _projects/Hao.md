@@ -47,4 +47,4 @@ Hao Qin is a forth-year PhD student at The University of Arizona in the Statisti
 
 ### Contact
 - Email: hqin@arizona.edu
-- Links: [LinkedIn](https://www.linkedin.com/in/hao-qin-183a89197/), [homepage](https://mjolnirt.github.io/)
+- Links: [LinkedIn](https://www.linkedin.com/in/hao-qin-183a89197/), [personal website](https://mjolnirt.github.io/)

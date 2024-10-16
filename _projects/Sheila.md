@@ -44,3 +44,7 @@ Sheila Whitman is a fourth year PhD student in the Applied Mathematics Program. 
 
 - **2024**: CVPR DEI Travel Grant
 - **2023**: NSF Graduate Research Fellowship
+
+### Contact
+
+- Links: [personal website](https://whishei.github.io/)
