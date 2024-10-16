@@ -14,7 +14,7 @@ I-Tzu Huang is a Physics undergraduate at the University of Arizona with interes
     <table class="table table-sm table-borderless">
         <tr>
             <th scope="row">~2026</th>
-            <td>B.Sc. in Physics</td>
+            <td>B.S. in Physics</td>
             <td>University of Arizona</td>
             <td align ="right">Tucson, AZ</td>
         </tr>

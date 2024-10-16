@@ -21,7 +21,7 @@ Sheila Whitman is a fourth year PhD student in the Applied Mathematics Program. 
         </tr>
         <tr>
             <th scope="row">{{2023}}</th>
-            <td>M.Sc. in Applied Mathematics</td>
+            <td>M.S. in Applied Mathematics</td>
             <td>University of Arizona</td>
             <td align ="right">Tucson, AZ</td>
         </tr>

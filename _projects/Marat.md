@@ -14,7 +14,7 @@ Dr. Marat Latypov is an assistant professor in Materials Science and Engineering
     <table class="table table-sm table-borderless">
         <tr>
             <th scope="row">{{2014}}</th>
-            <td>Ph.D.in Materials Science and Engineering</td>
+            <td>Ph.D. in Materials Science and Engineering</td>
             <td>POSTECH</td>
             <td align ="right">Pohang, South Korea</td>
         </tr>
@@ -33,3 +33,12 @@ Dr. Marat Latypov is an assistant professor in Materials Science and Engineering
 - Sustainable alloys
 - Microstructure and micromechanics
 - Computational thermodynamics
+
+### Honors and awards 
+
+- **2024**: ISTI Distinguished Faculty Scholar at Los Alamos National Laboratory
+- **2023**: UofA President's nominee for Packard Fellowhsip
+- **2021** First prize in Novelis computer vision hackathon
+- **2018** Outstanding Reviewer for Acta Materialia and Computational Materials Science
+- **2017**: Young Research Award at NanoSPD 
+- **2013**: Go-Jun Shik Scholarship (top PhD student in MSE)
